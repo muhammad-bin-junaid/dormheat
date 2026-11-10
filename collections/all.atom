@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://xo-foodtech.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://xo-foodtech.myshopify.com/collections/all.atom"/>
+  <title>XO Foodtech</title>
+  <updated>2025-09-18T04:56:53-04:00</updated>
+  <author>
+    <name>XO Foodtech</name>
+  </author>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+    <published>2025-09-18T04:56:53-04:00</published>
+    <updated>2025-09-18T04:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/diet-beans-copy"/>
+    <title>Milked Bean Can</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-16.jpg?v=1758185842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/diet-beans-copy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted in small batches using sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Our chowder offers a rich, creamy texture and authentic New England flavor, perfect for a cozy night in or a sophisticated gathering. Experience the taste of the coast.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014203912236</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+    <published>2025-09-18T04:55:19-04:00</published>
+    <updated>2025-09-18T04:55:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/monday-canning-copy"/>
+    <title>Diet Beans</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-15.jpg?v=1758185799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/monday-canning-copy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted in small batches using sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Our chowder offers a rich, creamy texture and authentic New England flavor, perfect for a cozy night in or a sophisticated gathering. Experience the taste of the coast.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014202077228</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+    <published>2025-09-18T03:05:38-04:00</published>
+    <updated>2025-09-18T03:05:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/cream-tomato-soup-copy"/>
+    <title>Monday Canning</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-14.jpg?v=1758185680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/cream-tomato-soup-copy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted in small batches using sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Our chowder offers a rich, creamy texture and authentic New England flavor, perfect for a cozy night in or a sophisticated gathering. Experience the taste of the coast.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014006517804</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+    <published>2025-09-18T03:04:58-04:00</published>
+    <updated>2025-09-18T03:04:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/halzenut-butter-can-copy"/>
+    <title>Cream Tomato Soup</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-13.jpg?v=1758179131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/halzenut-butter-can-copy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted in small batches using sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Our chowder offers a rich, creamy texture and authentic New England flavor, perfect for a cozy night in or a sophisticated gathering. Experience the taste of the coast.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014005829676</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+    <published>2025-09-18T03:04:10-04:00</published>
+    <updated>2025-09-18T03:04:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-tomato-soup-copy"/>
+    <title>Halzenut Butter Can</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-12.jpg?v=1758179090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-tomato-soup-copy">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted in small batches using sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Our chowder offers a rich, creamy texture and authentic New England flavor, perfect for a cozy night in or a sophisticated gathering. Experience the taste of the coast.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004781100</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/8014004092972</id>
+    <published>2025-09-18T03:03:46-04:00</published>
+    <updated>2025-09-18T03:03:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/sardex-tomato-sause"/>
+    <title>Sardex Tomato Sause</title>
+    <s:type></s:type>
+    <s:vendor>XO Foodtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-11.jpg?v=1758178955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XO Foodtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sardex Tomato Sauce turns every meal into a flavor fiesta! Bursting with ripe tomatoes and a splash of zest, it’s the perfect partner for pasta, pizza, or anything needing a saucy boost.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/8014004092972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+    <published>2025-08-27T06:25:39-04:00</published>
+    <updated>2025-08-27T06:25:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-maine-chowder"/>
+    <title>Toucan Maine Chowder</title>
+    <s:type></s:type>
+    <s:vendor>Prime Distributors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-04.jpg?v=1758178801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prime Distributors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-maine-chowder">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Coastal Maine Chowder is a rich and creamy delight, crafted with sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Each can captures the essence of a traditional New England recipe, perfect for a comforting and flavorful meal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>comfort food</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>new england</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+      <title>Medium / Smoked Paprika</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455600684</id>
+      <title>Large / Smoked Paprika</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+    <published>2025-08-27T06:25:39-04:00</published>
+    <updated>2025-08-27T06:25:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-bean"/>
+    <title>Coastal White Bean</title>
+    <s:type></s:type>
+    <s:vendor>Innovation Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-08.jpg?v=1758178844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Innovation Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-white-bean">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand-picked Maine white beans simmered in a creamy, subtly spiced broth with roasted fennel, leeks, and a hint of smoked paprika. Sustainably sourced and crafted in small batches, this chowder delivers authentic New England flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artisan</s:tag>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>glutenfree</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>white bean</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455535148</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455502380</id>
+    <published>2025-08-27T06:25:39-04:00</published>
+    <updated>2025-08-27T06:25:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-chowder-1"/>
+    <title>Passo Tomato Paste</title>
+    <s:type></s:type>
+    <s:vendor>Heritage Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-09.jpg?v=1758178875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Brands<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Coastal White Chowder is crafted with sustainably sourced clams, creamy potatoes, and a hint of thyme. Slow-cooked in small batches using a generations-old recipe, it’s a taste of the New England coast, perfect for a comforting meal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>clams</s:tag>
+    <s:tag>comfort food</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>new england</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>sustainable</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455502380</id>
+      <title>Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455502380</id>
+      <title>Smoked Paprika</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455502380</id>
+      <title>Chipotle</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+    <published>2025-08-27T06:25:39-04:00</published>
+    <updated>2025-08-27T06:25:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-chowder"/>
+    <title>Cacao Power</title>
+    <s:type></s:type>
+    <s:vendor>Coastal Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-10.jpg?v=1758178920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastal Enterprises<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Coastal White Chowder is a creamy, comforting blend of sustainably sourced clams, potatoes, and aromatic vegetables, simmered in a rich, homemade broth. Crafted with organic ingredients and a touch of sea salt, it’s a taste of the ocean in every spoonful.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artisanal</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>clams</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>comfortfood</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Classic / Medium</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Classic / Large</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Classic / Small</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Smoked Paprika / Medium</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Smoked Paprika / Large</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Smoked Paprika / Small</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Lemon Herb / Medium</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Lemon Herb / Large</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Lemon Herb / Small</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Spicy Chipotle / Medium</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Spicy Chipotle / Large</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455469612</id>
+      <title>Spicy Chipotle / Small</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+    <published>2025-08-27T06:25:38-04:00</published>
+    <updated>2025-08-27T06:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-maine-chowder-2"/>
+    <title>Coastal Tomato Soup</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-01.jpg?v=1758178495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-maine-chowder-2">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted in small batches using sustainably sourced Maine lobster, sweet potatoes, and a blend of aromatic herbs. Our chowder offers a rich, creamy texture and authentic New England flavor, perfect for a cozy night in or a sophisticated gathering. Experience the taste of the coast.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>lobster</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Small / Spicy</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Small / Smoked</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455797292</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+    <published>2025-08-27T06:25:38-04:00</published>
+    <updated>2025-08-27T06:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-maine-chowder-1"/>
+    <title>Coastal Maine Chowder</title>
+    <s:type></s:type>
+    <s:vendor>Excel Commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-02.jpg?v=1758178639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Excel Commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-maine-chowder-1">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Experience the authentic taste of Maine with our handcrafted chowder. Made with sustainably sourced clams, potatoes, and a rich cream base, each can captures the essence of New England's culinary heritage. Perfect for a cozy night in or a quick, comforting meal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>comfort food</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>new england</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Small / Smoked Paprika</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Small / Spicy Chorizo</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Medium / Smoked Paprika</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Medium / Spicy Chorizo</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Large / Smoked Paprika</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455764524</id>
+      <title>Large / Spicy Chorizo</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+    <published>2025-08-27T06:25:38-04:00</published>
+    <updated>2025-08-27T06:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-bean-3"/>
+    <title>Coastal White Bean</title>
+    <s:type></s:type>
+    <s:vendor>Urban Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-03.jpg?v=1758178673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Urban Collective<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-white-bean-3">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand-picked Maine white beans simmered in a creamy, subtly spiced broth with roasted fennel, leeks, and a hint of smoked paprika. Sustainably sourced and crafted in small batches, this chowder delivers authentic New England flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artisan</s:tag>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>glutenfree</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>white bean</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455731756</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+    <published>2025-08-27T06:25:38-04:00</published>
+    <updated>2025-08-27T06:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-chowder-2"/>
+    <title>Coastal White Chowder</title>
+    <s:type></s:type>
+    <s:vendor>Sterling Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-04.jpg?v=1758178801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sterling Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-white-chowder-2">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Coastal White Chowder is a creamy, comforting blend of sustainably sourced clams, potatoes, and aromatic vegetables, simmered in a rich, homemade broth. Crafted with organic ingredients and a touch of sea salt, it’s a taste of the ocean in every spoonful.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artisanal</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>clams</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>comfortfood</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Small / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Small / Smoked Paprika</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Small / Lemon Herb</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Small / Spicy Chipotle</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Medium / Smoked Paprika</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Medium / Lemon Herb</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Medium / Spicy Chipotle</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Large / Smoked Paprika</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Large / Lemon Herb</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455698988</id>
+      <title>Large / Spicy Chipotle</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+    <published>2025-08-27T06:25:38-04:00</published>
+    <updated>2025-08-27T06:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-bean-2"/>
+    <title>Coastal Purple Bean</title>
+    <s:type></s:type>
+    <s:vendor>Premier Holdings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-05.jpg?v=1758178738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premier Holdings<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-white-bean-2">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand-picked Maine white beans simmered in a creamy, subtly spiced broth with roasted fennel, leeks, and a hint of smoked paprika. Sustainably sourced and crafted in small batches, this chowder delivers authentic New England flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artisan</s:tag>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>glutenfree</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>seafood</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>white bean</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455633452</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+    <published>2025-08-27T06:25:38-04:00</published>
+    <updated>2025-08-27T06:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://xo-foodtech.myshopify.com/products/coastal-white-bean-1"/>
+    <title>Coastal White Bean</title>
+    <s:type></s:type>
+    <s:vendor>Excel Commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0695/4169/1436/files/product-07.jpg?v=1758178817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Excel Commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00 - 75.00
+            <a href="https://xo-foodtech.myshopify.com/products/coastal-white-bean-1">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand-picked Maine white beans simmered in a creamy, subtly spiced broth with roasted fennel, leeks, and a hint of smoked paprika. Sustainably sourced and crafted in small batches, this chowder delivers authentic New England flavor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artisanal</s:tag>
+    <s:tag>canned</s:tag>
+    <s:tag>chowder</s:tag>
+    <s:tag>glutenfree</s:tag>
+    <s:tag>gourmet</s:tag>
+    <s:tag>maine</s:tag>
+    <s:tag>new england</s:tag>
+    <s:tag>soup</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>white bean</s:tag>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+      <title>Medium / Classic</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+      <title>Medium / Smoked</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+      <title>Medium / Spicy</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+      <title>Large / Classic</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+      <title>Large / Smoked</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://xo-foodtech.myshopify.com/products/7983455567916</id>
+      <title>Large / Spicy</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
